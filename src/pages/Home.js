@@ -1,6 +1,5 @@
 import React from 'react';
 import Product from '../features/products/Product';
-import Cart from '../features/cart/Cart';
 
 const Home = () => {
   return (
