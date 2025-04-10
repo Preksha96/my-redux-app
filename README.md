@@ -14,4 +14,6 @@ A simple e-commerce web application built using React and Redux Toolkit. Users c
 - ⚡ Instant Add to Cart actions
 
 ---
+         <img src={item.image} width="200px" height="200px"/>
+         <img src={item.image} width="200px" height="200px"/>
 
