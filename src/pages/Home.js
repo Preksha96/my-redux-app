@@ -1,14 +1,15 @@
-import React from 'react';
-import Product from '../features/products/Product';
-import Cart from '../features/cart/Cart';
+import React from "react";
 
 const Home = () => {
   return (
-    <div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'space-around' }}>
-      <Product />
-      <Cart/>
-    </div>
-  )
+    <div
+      style={{
+        display: "flex",
+        flexWrap: "wrap",
+        justifyContent: "space-around",
+      }}
+    ></div>
+  );
 };
 
 export default Home;
