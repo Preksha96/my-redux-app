@@ -1,13 +1,15 @@
-import React from 'react';
-import Product from '../features/products/Product';
+import React from "react";
 
 const Home = () => {
   return (
-    <div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'space-around' }}>
-      <Product />
-      
-    </div>
-  )
+    <div
+      style={{
+        display: "flex",
+        flexWrap: "wrap",
+        justifyContent: "space-around",
+      }}
+    ></div>
+  );
 };
 
 export default Home;
